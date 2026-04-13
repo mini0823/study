@@ -25,7 +25,6 @@ class Main {
             }
         }
         System.out.println(Prime_count);
-        sc.close();
         
         sc.close();
     }
